@@ -5,7 +5,14 @@ This is a simple library management system's api created using FastAPI for the e
 
 ## How to run this code?
 
+## How to run this code?
 
+1. Clone the repo and move to the file
+
+   Clone this repo or you can download the zip file from above. To clone using terminal, go to your required file loation and open terminal there, then enter following commands.
+
+   ```bash
+      git clone https://github.com/GR00th/Library-API-try.git
       ```
 
       This will create make a directory with name `library_management_system_fastAPI`. Now we need to move inside the folder, i.e
@@ -14,7 +21,7 @@ This is a simple library management system's api created using FastAPI for the e
       cd library_management_system_fastAPI
       ```
 
-1. Create a .env file
+2. Create a .env file
  The file must follow this format
 
    ```bash
