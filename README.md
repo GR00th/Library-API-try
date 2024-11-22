@@ -3,7 +3,7 @@
 
 This is a simple library management system's api created using FastAPI for the endpoint, SQLAlchemy for ORM and PostgreSQL for the backend database.
 
-## How to run this code?
+
 
 ## How to run this code?
 
