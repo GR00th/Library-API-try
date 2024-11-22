@@ -44,9 +44,7 @@ def get_verified_html(username:str):
           world of literature, learning, and leisure.
         </p>
 
-        <img src="https://rohanpudasaini.com.np/wp-content/uploads/2024/04/lms_logo1.png" alt="Library Image" class="library-image" />
-        <!-- Replace "library-image.jpg" with the actual image path -->
-
+       
         <p>
           Feel free to explore our collections, participate in our events, and
           take advantage of all the resources available to you. If you have any
@@ -106,8 +104,7 @@ def get_return_reminder_html(username:str, name:str, object:str):
             This is a friendly reminder that your borrowed {object} <strong>"{name}"</strong> is due for return in 3 days. 
           </p>
 
-          <img src="https://rohanpudasaini.com.np/wp-content/uploads/2024/04/lms_logo1.png" alt="Library Image" class="library-image" />
-          <!-- Replace "library-image.jpg" with the actual image path -->
+     
 
           <p>
             Please make sure to return it on time to avoid any late fees and to help keep our library system efficient for all users.
@@ -167,8 +164,6 @@ def get_expiry_notification_html(username:str, name:str, object:str, expiry_date
           <p>
             We hope this message finds you well. This is to inform you that the borrowing period for your {object} <strong>"{name}"</strong> has expired on <strong>{expiry_date}</strong>.
           </p>
-
-          <img src="https://rohanpudasaini.com.np/wp-content/uploads/2024/04/lms_logo1.png" alt="Library Image" class="library-image" />
 
           <p>
             As of now, a late return fine of <strong>रु {fine_amount}</strong> has been incurred. We kindly request that you return the {object} as soon as possible to minimize any additional charges.
