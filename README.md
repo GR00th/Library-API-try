@@ -15,7 +15,7 @@ This is a simple library management system's api created using FastAPI for the e
       git clone https://github.com/GR00th/Library-API-try.git
       ```
 
-      This will create make a directory with name `library_management_system_fastAPI`. Now we need to move inside the folder, i.e
+      This will create make a directory `. Now we need to move inside the folder, i.e
 
       ```bash
       cd library_management_system_fastAPI
