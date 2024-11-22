@@ -84,6 +84,17 @@ This is a simple library management system's api created using FastAPI for the e
      }
    }
    ```
+5. Aditional questions
+Additional Strategies
+
+Authentication: Use OAuth2PasswordBearer to secure endpoints.
+Pagination: Implement limit and skip in queries.
+Security: Use SQLAlchemy to prevent SQL injection; validate inputs with Pydantic.
+
+
+
+
+
 
 ## TODO
 
