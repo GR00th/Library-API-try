@@ -1,11 +1,5 @@
 # Library Management System Using FASTAPI
 
-   <p align="center">
-     <a ><img src="images/lms_logo1.png" alt="Library Management System" height=200></a>
-   </p>
-   <p align="center">
-       <em>Simple Library management system to learn FastAPI</em>
-   </p>
 
 This is a simple library management system's api created using FastAPI for the endpoint, SQLAlchemy for ORM and PostgreSQL for the backend database.
 
