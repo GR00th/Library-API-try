@@ -92,4 +92,4 @@ This is a simple library management system's api created using FastAPI for the e
   
 ## Conclusion
 
-   This is a simple FastApi example and it is nowhere near complete, This is created with sole purpose of understanding the fast api, router and authentication using JWT token.
+   This is a simple FastApi example and it is nowhere near complete, This is created with sole purpose of understanding the fast api, router and authentication using JWT token, also im rusted AF.
